@@ -1,5 +1,4 @@
-(https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml)
- ----------------------------------------------------------------- 
+[![Python application test with Github Actions](https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml)
 
 # github-actions-demo
 This is repo for building out Github Actions and Tricks 
