@@ -1,9 +1,4 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+[![Python application test with Github Actions](https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/vladimirkanchev/github-actions-demo/actions/workflows/main.yml)
 
 # github-actions-demo
 This is repo for building out Github Actions and Tricks 
