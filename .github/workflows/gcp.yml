@@ -1,4 +1,4 @@
-name: Python application test with Github Actions with GCP
+name: GCP Python 3.7
 on: [push]
 jobs:
   build:
